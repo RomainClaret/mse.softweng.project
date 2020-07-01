@@ -1,0 +1,36 @@
+{
+    "header": {
+        "title": "Romain Claret - Resume Website for MSE SoftwEng Class"
+    },
+
+    "footer": {
+        "github": "https://github.com/penguinazor",
+        "gitlab": "https://gitlab.com/penguinazor"
+    },
+
+    "about": {
+        "title": "About me",
+        "profile_pic": "/pictures/me.jpg",
+        "part_1": "Technology fanatic and disruption-driven software engineer focusing on artificial general intelligence and passionate about emerging technologies, autonomous agents, distributed data (including distributed consensuses and blockchain protocols), and the mesh of things.",
+        "part_2": "Aspiring to become an AGI teacher wishing to see from his living, a fully machine-assisted and harmonized world. With the use of a decentralized, distributed, borderless and self-sufficient autonomous network combining AGI, Blockchain, And MoT."
+    },
+
+    "education": [
+        {
+            "school": "HES-SO Haute école spécialisée de Suisse occidentale (HES-SO)",
+            "degree": "Master of Science, Engineering (MSE), Software Engineering",
+            "years": "2018 - 2020"
+        }
+    ],
+
+    "publications": [
+        {
+            "institut": "Jenkins Laboratory, Massachusetts General Hospital Cancer Center, Harvard Medical School",
+            "title": "Perceptual roll tilt thresholds demonstrate visual-vestibular fusion",
+            "years": "2013 - 2014",
+            "papers": "Journal of Neurophysiology 2014 Jun 15; 111(12): 2393-2403 and Published online 2013 Dec 26. doi: 10.1152/jn.00332.2013"
+        }
+    ]
+
+    
+}
